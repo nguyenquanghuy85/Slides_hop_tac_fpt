@@ -1,0 +1,111 @@
+---
+title: "Họp Trưởng đơn vị Trường Công nghệ"
+subtitle: "Thành phần tham gia: HT, PHT, CVP, các Trưởng khoa"
+date: today
+format:
+  revealjs: 
+    slide-number: true
+    chalkboard: 
+      buttons: false
+    preview-links: auto
+    logo: nct_logo.pdf
+    css: styles.css
+    footer: <https://nct.neu.edu.vn>
+resources:
+  - demo.pdf
+---
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+library(tidyverse)
+library(kableExtra)
+```
+
+## Quản lý chung - kênh liên lạc
+
+- Phương thức liên lạc chính thức của Trường là qua Outlook
+
+- Các kênh trao đổi thông tin khác như Zalo, Fb chỉ để trao đổi nhanh.
+
+- Mời họp cũng đặt lịch qua Outlook
+
+- Các khoa nếu có nhu cầu sử dụng văn phòng Trường thì kiểm tra lịch họp và đặt qua Outlook. 
+
+## Quản lý chung - chia sẻ tài liệu
+
+- Tài liệu được chia sẻ qua OneDrive
+
+- Hạn chế đính kèm qua Zalo, Fb, Email
+
+- HT, PHT, CVP có quyền truy cập vào tất cả các thư mục
+
+- Các Khoa có quyền truy cập vào thư mục của Khoa mình và của thư mục chung của Trường
+
+- <a href="https://stneuedu-my.sharepoint.com/:f:/g/personal/truongcongnghe_neu_edu_vn/EhGSKepD3YxHvK7UKZZ6s9kBT5ghOsYSb53OOm4EsNBwFA?e=CD8iwB">Thư mục chung của Trường Công nghệ</a>
+
+## Quản lý chung - thông tin chung
+
+```{r}
+df <- tibble('Văn phòng' = c('Trường CN', paste('Khoa', sort(c('KHDL&AI', 'CNTT', 'HTTTQL', 'KHCS', 'Toán', 'TK')), sep = " ")),
+             'Phụ trách' = c('T. Bùi Quốc Hoàn', 'C. Ng Thị Hải Yến', 'C. Ng Hương Giang', 'T. Ng Hồng Quân', 'C. Lưu Phương Mai', 'C. Ng Phương Lan', 'C. Bùi Thị Thúy'),
+             'Sdt' = c('0983386428','0916978877', '0904493562', '0974821967', '0904551709', '0912319386','0815666528' )
+             )
+kable(df)
+```
+
+## Hoạt động của Trường (1)
+
+-  
+<a href="https://stneuedu-my.sharepoint.com/:f:/g/personal/truongcongnghe_neu_edu_vn/EnfcRVKwSH1FvknuxjmLu5ABzgPNem3rUQoNLO696SkrRA?e=bk4l5P"> Kế hoạch hoạt động 2024 </a>
+
+- Các hoạt động đang diễn ra
+
+  - Chuỗi sự kiện chào tân sinh viên: Unitour, football day, Gala dinner
+  
+  - Hội nghị triển khai năm học 2024 - 2025 (toàn trường): Đã xong kế hoạch, chốt ngày
+  
+  - Tọa đàm nghề nghiệp Quản trị rủi ro định lượng: 02/11/2024
+  
+  - Gặp gỡ các thế hệ 20/11/2024 (dự kiến tổ chức cùng ngày với trường vào 15/11)
+
+## Hoạt động của Trường (2)
+
+- Các hoạt động sắp diễn ra
+
+  - Kế hoạch xây dựng Trung tâm dữ liệu và Mô hình mô phỏng Kinh tế vi mô - vĩ mô.
+  
+  - Tọa đàm nghề nghiệp và ký thỏa thuận hợp tác với VNPT AI
+  
+  - Ngày hội thực tập và việc làm (15/12/2024)
+  
+  - Hoàn thiện các phòng Lab và lấy ngân sách
+
+## Hoạt động của Trường (3)
+
+- Kế hoạch trọng tâm của Trường trong năm 2025:
+  - Tư vấn tuyển sinh & xây dựng thương hiệu
+  - Mở ngành mới bằng Tiếng Anh (không tăng chỉ tiêu, thay thế cho các Chương trình đang giảng dạy bằng Tiếng Việt)
+  - Số hóa tất quả các môn học, chương trình đào tạo & publish lên website (của Trường CN)
+  - Triển khai môn học KHDL & AI chung cho toàn trường (No-code approach)
+
+## Hoạt động của Trường (4)
+
+- Kế hoạch trọng tâm của Trường trong năm 2025 (tiếp)
+
+  - Trung tâm dữ liệu và mô hình mô phỏng kinh tế vi mô + vĩ mô
+  - Chương trình Nghiên cứu sinh được trả lương
+  - Xây dựng bài thi đánh giá năng lực chung cho sinh viên NEU (cân nhắc)
+  
+
+## Thảo luận
+
+- Các hoạt động của trường năm 2024
+
+- Các hoạt động của trường năm 2025
+
+- Các khoa làm Kế hoạch công việc và làm dự toán cho các công việc phát sinh kinh phí theo mẫu: 
+<a href="https://stneuedu-my.sharepoint.com/:f:/g/personal/truongcongnghe_neu_edu_vn/EsE8x8fYvVREmZplSkY-MksB--K_HRoG33-03ceZrhxlXQ?e=5v6VA2"> Mẫu kế hoạch công việc và mẫu dự toán </a>
+
+- Với các công việc có phát sinh kinh phí, ngoài dự toán cần có thuyết minh chi tiết.
+ 
+
+
