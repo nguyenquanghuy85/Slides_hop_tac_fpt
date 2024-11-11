@@ -1,0 +1,90 @@
+---
+title: "Đề xuất hợp tác với Tập đoàn FPT"
+subtitle: "Thảo luận về các cơ hội có thể hợp tác giữa Trường Công nghệ - ĐH KTQD và Tập đoàn FPT"
+date: today
+format:
+  revealjs: 
+    slide-number: true
+    chalkboard: 
+      buttons: false
+    preview-links: auto
+    logo: nct_logo.pdf
+    css: styles.css
+    footer: <https://nct.neu.edu.vn>
+resources:
+  - demo.pdf
+---
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+library(tidyverse)
+library(kableExtra)
+```
+
+## Giới thiệu chung
+
+- <a href="https://www.canva.com/design/DAGWJLVuFhk/SP5kvUK7cjr91eAYDL_EiA/view?utm_content=DAGWJLVuFhk&utm_campaign=designshare&utm_medium=link&utm_source=editor">Giới thiệu về Trường Công nghệ</a>
+
+- Mục tiêu hợp tác:
+
+  - Trên cơ sở hai bên cùng có lợi
+  
+  - Tận dụng được thế mạnh của đôi bên
+  
+  - Tâp trung vào một số hoạt động thiết thực
+
+## NCT và NEU là khách hàng tiềm năng của FPT
+
+- Phần mềm quản lý tổng thể
+
+- Các phần mềm quản lý riêng
+
+- Trung tâm dữ liệu của Trường
+
+- Các hệ thống thông minh trong trường
+
+- Cung cấp các thiết bị/phần mềm hỗ trợ dạy, học, nghiên cứu
+
+## Hợp tác hoạt động đào tạo (1)
+
+- Cử chuyên gia tham gia đào tạo sinh viên/học viên
+
+  - Dạy full course cho sinh viên như 1 môn học
+  - Dạy phần thực hành (1/2 course)
+  - Tham gia hướng dẫn chuyên đề thực tập cho sinh viên
+  - Host các buổi tham quan thực tế
+  - Hỗ trợ đào tạo kỹ năng mềm (CV, phỏng vấn, thuyết trình,...)
+  
+## Hợp tác hoạt động đào tạo (2)
+
+- Đào tạo kiến thức/kinh nghiệm thực tế cho Giảng viên
+
+  - Các khóa ngắn hạn (2-3 buổi)
+
+- Hợp tác với Trường tổ chức các workshop - tọa đàm chuyên ngành 
+  
+  - Trường phụ trách phần kiến thức học thuật
+  - Chuyên gia FPT phụ trách kiến thức thực tiễn
+  
+## Hợp tác nghiên cứu
+
+- Cử chuyên gia tham gia cùng các dự án nghiên cứu của Trường (đề tài cấp cơ sở, Bộ, Nhà nước)
+
+- Giảng viên của Trường tham gia vào các dự án nghiên cứu của Tập đoàn
+
+- Giảng viên của Trường thực hiện các dự án nghiên cứu theo yêu cầu
+
+- Hợp tác xây dựng chương trình Nghiên cứu sinh được trả lương
+
+## Các hoạt động khác có thể hợp tác
+
+- Nghiên cứu mở rộng thị trường ở Pháp
+
+- Hỗ trợ Tập đoàn các kiến thức chuyên môn liên quan đến Bảo hiểm (Actuarial sciences)
+ 
+  - Đánh giá chính sách bảo hành sản phẩm 
+  
+  - Đánh giá các chính sách bảo hiểm Y tế cho nhân viên
+  
+  - Đánh giá quỹ hưu trí cho nhân viên
+
+
